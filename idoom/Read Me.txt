@@ -1,0 +1,10 @@
+ iPhone Doom Read Me
+=====================
+
+iPhone Doom is a direct source port of the original Doom source code release from ID Software.  It is designed to run on any Apple iPhone or Apple iTouch device.
+
+
+ Compiling from source
+=======================
+
+This source is targeted for Apple XCode 3.1.  To build it requires the doom1.wad distributed with shareware versions of Doom.  It should also operate with the doom.wad and doom2.wad files distributed with commercial versions of the game.
