@@ -240,6 +240,8 @@
 		B54FD2FB0EBF7DE3009E4CC5 /* tables.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tables.h; sourceTree = "<group>"; };
 		B594341A0ED0C2AA006E5E35 /* GameControls.png */ = {isa = PBXFileReference; explicitFileType = image.png; path = GameControls.png; sourceTree = "<group>"; };
 		B5A389CA0EDDFD8C00F863BF /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		B5E9BEE70FC0BB5D0061A1FC /* Licence.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Licence.txt; sourceTree = "<group>"; };
+		B5E9BEE80FC0BBA10061A1FC /* Read Me.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Read Me.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -318,6 +320,8 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				B5E9BEE80FC0BBA10061A1FC /* Read Me.txt */,
+				B5E9BEE70FC0BB5D0061A1FC /* Licence.txt */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
